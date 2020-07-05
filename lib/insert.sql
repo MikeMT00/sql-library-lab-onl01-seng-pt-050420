@@ -4,7 +4,7 @@ INSERT INTO subgenres (id, name) VALUES (1, 'family'), (2, 'comdey');
 
 INSERT INTO authors (id, name) VALUES (1, 'Will Smith'), (2, 'Hype Williams');
 
-INSERT INTO books (id, title, year, series_id) VALUES (1, "Burnin' Down the House", 1996, 1), (2, "Get a Job", 1998, 1), (3, "Strees Related", 2000, 1), (4, "Not I Barbeque", 2002, 2), (5, "Viva Lost Wages", 2003, 2), (6, "Third Book", 2005, 2);
+INSERT INTO books (id, title, year, series_id) VALUES (1, "Burnin' Down the House", 1996, 1), (2, "Get a Job", 1998, 1), (3, "Strees Related", 2000, 1), (4, "Not I Barbeque", 2002, 2), (5, "Viva Lost Wages", 2003, 2), (6, "There's a Rub", 2005, 2);
 
 INSERT INTO characters (id, name, motto, species, author_id) VALUES (1, "Lady", "Woof Woof", "direwolf", 1), (2, "Tyrion Lannister", "A Lannister always pays his debts", "human", 1), (3, "Daenerys Targaryen", "If I look back I am lost", "human", 1), (4, "Eddard Stark", "Winter is coming", "human", 1);
 
